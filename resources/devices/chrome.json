@@ -1,0 +1,25 @@
+{
+	"bstack:options": {
+		"os" : "Windows",
+		"osVersion" : "11",
+		"projectName" : "",
+		"buildName" : "",
+		"sessionName" : "",
+		"local" : "false",
+        "userName": "",
+        "accessKey": "",
+        "idleTimeout": "",
+		"networkLogs" : "true",
+        "networkLogsOptions": {
+            "captureContent": "true"
+        }
+	},
+	"browserName" : "Chrome",
+	"browserVersion" : "latest",
+    "chromeOptions": {
+        "args": [
+            "--use-fake-device-for-media-stream",
+            "--use-fake-ui-for-media-stream"
+        ]
+    }
+}

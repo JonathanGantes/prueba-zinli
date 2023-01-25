@@ -1,0 +1,19 @@
+{
+    "platformName" : "android",
+    "platformVersion" : "12.0",
+    "deviceName" : "Google Pixel 5",
+    "app" : "",
+    "bstack:options" : {
+        "projectName" : "",
+        "buildName" : "",
+        "sessionName" : "",
+        "local" : "false",
+        "userName": "",
+        "accessKey": "",
+        "idleTimeout" : "",
+        "networkLogs" : "true",
+        "networkLogsOptions": {
+            "captureContent": "true"
+        }
+    }
+}
